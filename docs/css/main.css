@@ -3690,7 +3690,7 @@ body.light .home-page-logo a:hover {
 }
 /* line 233, ../sass/cospo/elements/_pages.scss */
 .home-page-logo img {
-  height: 18px;
+  height: 180px;
   width: auto;
 }
 /* line 239, ../sass/cospo/elements/_pages.scss */
@@ -4258,7 +4258,7 @@ div.page-figure.in-content {
   .home-page-logo img {
     display: inline-block;
     width: auto;
-    height: 18px;
+    height: 220px;
   }
 
   /* line 758, ../sass/cospo/elements/_pages.scss */
